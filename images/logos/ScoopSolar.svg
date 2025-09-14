@@ -1,0 +1,17 @@
+<svg width="136" height="147" viewBox="0 0 136 147" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_552_5901)">
+<path d="M63.8788 15.2752C66.341 13.8657 69.3655 13.8657 71.8277 15.2752L111.332 37.8898C113.822 39.3149 115.358 41.964 115.358 44.8326V89.9442C115.358 92.8128 113.822 95.4618 111.332 96.887L71.8277 119.502C69.3655 120.911 66.341 120.911 63.8788 119.502L24.3744 96.887C21.8849 95.4618 20.3489 92.8128 20.3489 89.9442L20.3489 44.8326C20.3489 41.964 21.8849 39.3149 24.3744 37.8898L63.8788 15.2752Z" fill="white"/>
+</g>
+<path d="M41 82.75L66.0328 96.8889C67.2536 97.5784 68.7464 97.5784 69.9672 96.8889L92.9672 83.8982C94.2232 83.1887 95 81.8579 95 80.4153V54.5847C95 53.1421 94.2232 51.8113 92.9672 51.1018L69.9672 38.1111C68.7464 37.4216 67.2536 37.4216 66.0328 38.1111L43.0328 51.1018C41.7768 51.8113 41 53.1421 41 54.5847V64.0919C41 65.4889 41.7288 66.7847 42.9227 67.5102L65.9226 81.4876C67.1989 82.2632 68.801 82.2632 70.0773 81.4875L79.5632 75.7228C80.2165 75.3257 80.2007 74.3721 79.5346 73.9969L56.5236 61.0358C55.8446 60.6534 55.8446 59.6757 56.5236 59.2933L67.0185 53.382C67.6278 53.0387 68.3722 53.0387 68.9815 53.382L81.0233 60.1646" stroke="#007FE8" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_d_552_5901" x="0.348877" y="0.21814" width="135.009" height="146.341" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="6"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.12549 0 0 0 0 0.152941 0 0 0 0 0.176471 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_552_5901"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_552_5901" result="shape"/>
+</filter>
+</defs>
+</svg>

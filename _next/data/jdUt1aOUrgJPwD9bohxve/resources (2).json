@@ -1,0 +1,430 @@
+{
+  "pageProps": {
+    "items": [],
+    "title": "Welcome to the 'Flo",
+    "subtitle": "Browse resources and information about Enerflo, the Solar Industry, and more.",
+    "filters": { "topic": "adders", "type": "Integrations" },
+    "filterOptions": [
+      {
+        "name": "topic",
+        "options": [
+          {
+            "_createdAt": "2024-10-21T22:15:10Z",
+            "_id": "f9d77ef6-19fe-4d0f-9d55-eb1975c79973",
+            "_rev": "06i5z6s9CphzDMUU1HfOuO",
+            "_type": "resourceTopic",
+            "_updatedAt": "2024-10-21T22:15:10Z",
+            "label": "API",
+            "value": "api"
+          },
+          {
+            "_createdAt": "2023-06-16T20:04:23Z",
+            "_id": "ebf325fb-1a63-4eab-ba04-a3887df43277",
+            "_rev": "knxcVG7Zyxkln3M3etEKvI",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-06-16T20:04:23Z",
+            "label": "Adders",
+            "value": "adders"
+          },
+          {
+            "_createdAt": "2023-06-16T17:00:47Z",
+            "_id": "78ce315e-e108-42a2-b951-1ae2016ebbb3",
+            "_rev": "knxcVG7Zyxkln3M3esj9lj",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-06-16T17:00:47Z",
+            "label": "Aurora Solar",
+            "value": "aurora-solar"
+          },
+          {
+            "_createdAt": "2022-12-14T00:22:26Z",
+            "_id": "93646c6c-c144-4780-82e4-f14a23179c2e",
+            "_rev": "SkxtNDeJFZsWl1tm8rJX6t",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-14T00:22:26Z",
+            "label": "Batteries / Storage",
+            "value": "Content relating to solar energy storage and battery solutions"
+          },
+          {
+            "_createdAt": "2024-09-11T18:29:15Z",
+            "_id": "0c584e30-2ceb-4fc1-b5bc-ff6e3a5c1c60",
+            "_rev": "HhDdVIUa1BJOaQ4MHDFPzB",
+            "_type": "resourceTopic",
+            "_updatedAt": "2024-09-11T18:29:15Z",
+            "label": "Compliance",
+            "value": "Compliance"
+          },
+          {
+            "_createdAt": "2023-06-16T20:06:45Z",
+            "_id": "9417a09f-e4be-44da-8cc3-c6eae12898f4",
+            "_rev": "knxcVG7Zyxkln3M3etEl8H",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-06-16T20:06:45Z",
+            "label": "Consumption",
+            "value": "consumption"
+          },
+          {
+            "_createdAt": "2024-10-16T22:19:20Z",
+            "_id": "04d8ad5e-05c9-4d6f-97b0-fc2ead72c965",
+            "_rev": "KyzqRrL3EBNKJO9ars32AF",
+            "_type": "resourceTopic",
+            "_updatedAt": "2024-10-16T22:19:20Z",
+            "label": "Customer Experience",
+            "value": "customer-experience"
+          },
+          {
+            "_createdAt": "2022-12-14T00:07:31Z",
+            "_id": "79fc6173-9c22-49ce-8497-9ee7242b316a",
+            "_rev": "XzNeZYbse4JRfw47eMSphw",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-01-16T18:21:24Z",
+            "label": "Design Software",
+            "value": "Photovoltaic (PV) system design software"
+          },
+          {
+            "_createdAt": "2022-12-14T00:14:48Z",
+            "_id": "c5f4ba67-cef4-4006-9792-9165e0748cda",
+            "_rev": "oHbMaUC7joGFkDY72LO7Zo",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-14T00:14:48Z",
+            "label": "Digital Welcome Calls",
+            "value": "Enerflo Digital Welcome Calls Powered by Callpilot"
+          },
+          {
+            "_createdAt": "2022-12-14T00:37:08Z",
+            "_id": "0a46af6f-abf6-4276-a3b0-e470b118f58f",
+            "_rev": "oHbMaUC7joGFkDY72LUCfj",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-14T00:37:08Z",
+            "label": "Docflo Solar Documents",
+            "value": "Docflo Solar Documents"
+          },
+          {
+            "_createdAt": "2023-07-21T17:01:09Z",
+            "_id": "466f6410-29e7-4607-923b-90dca0ed3e2c",
+            "_rev": "DwbzeHwSjd5jHHpdvXdiSb",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-07-21T17:01:09Z",
+            "label": "Enerflo Legacy (V1) Platform",
+            "value": "enerflo-legacy-v1-platform"
+          },
+          {
+            "_createdAt": "2023-11-13T19:51:09Z",
+            "_id": "1314ba66-19e4-4aed-9646-bc6124d7edb6",
+            "_rev": "U1Pa6t0qB5sRxGywpGmAF5",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-11-13T19:51:09Z",
+            "label": "Enerflo Sales Core",
+            "value": "sales-core"
+          },
+          {
+            "_createdAt": "2023-06-16T16:59:46Z",
+            "_id": "2f77a7b1-9af1-4ba7-a076-07a2a2468cf9",
+            "_rev": "xLapDhdRrObCF46jgvBSRh",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-06-16T16:59:46Z",
+            "label": "Enerflo V2 Platform",
+            "value": "enerflo-v2-platform"
+          },
+          {
+            "_createdAt": "2022-12-23T23:19:50Z",
+            "_id": "bd4b259f-eaf8-4809-a1ec-d1cc4a88af31",
+            "_rev": "v0pXs4WIsZWyQPY3CvmZjy",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-23T23:19:50Z",
+            "label": "Industry News",
+            "value": "Industry News"
+          },
+          {
+            "_createdAt": "2023-07-21T17:04:05Z",
+            "_id": "831d09a6-bb9f-40ec-a30e-d5231fd2494f",
+            "_rev": "cjmHyhGPrU3vYahNUXQAUN",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-07-21T17:04:05Z",
+            "label": "Install Markets",
+            "value": "install-markets"
+          },
+          {
+            "_createdAt": "2022-12-14T00:15:53Z",
+            "_id": "2dc2c260-4a03-4e0f-b6bd-1dfd2263201a",
+            "_rev": "oHbMaUC7joGFkDY72LOL8y",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-14T00:15:53Z",
+            "label": "Installers / EPCs",
+            "value": "Content relevant to Installers and/or EPCs"
+          },
+          {
+            "_createdAt": "2022-12-23T23:19:05Z",
+            "_id": "03a8084d-5564-4e2b-9978-01b713735cf8",
+            "_rev": "xrQOUk9ATwLyqARpQWipFs",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-23T23:19:05Z",
+            "label": "Integrations",
+            "value": "Integrations"
+          },
+          {
+            "_createdAt": "2022-12-14T00:37:25Z",
+            "_id": "625183da-065d-48b1-a8b1-b03e2ec2e4c8",
+            "_rev": "SkxtNDeJFZsWl1tm8rUVh1",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-14T00:37:25Z",
+            "label": "Lendflo Integrated Financing",
+            "value": "Lendflo Integrated Financing"
+          },
+          {
+            "_createdAt": "2022-12-14T00:36:19Z",
+            "_id": "de45f1aa-6b0d-4605-9fbc-c78545758f48",
+            "_rev": "SkxtNDeJFZsWl1tm8rThgZ",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-14T00:36:19Z",
+            "label": "Optimus Proposals",
+            "value": "Optimus Proposals"
+          },
+          {
+            "_createdAt": "2025-07-22T15:42:19Z",
+            "_id": "drafts.726a88d3-b1d0-4a07-be6a-c85bc67e4893",
+            "_rev": "ihcpyb-guu-ej9-sgc-s7h5wy57e",
+            "_type": "resourceTopic",
+            "_updatedAt": "2025-07-22T15:42:29Z",
+            "label": "Partner Spotlight",
+            "value": "partner spotlight"
+          },
+          {
+            "_createdAt": "2022-12-14T00:35:24Z",
+            "_id": "8c0269a7-859d-4f7f-b204-1ac62977f337",
+            "_rev": "oHbMaUC7joGFkDY72LTpdL",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-14T00:35:58Z",
+            "label": "Partner Success",
+            "value": "Partner Success"
+          },
+          {
+            "_createdAt": "2023-01-16T18:28:29Z",
+            "_id": "a05289e1-fe64-42e3-a5e9-1c4d44265230",
+            "_rev": "LcfHlqSZdi7YWmuiJZw2ih",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-01-16T18:28:29Z",
+            "label": "Project Management",
+            "value": "Everything from Project Submission to PTO"
+          },
+          {
+            "_createdAt": "2022-12-06T23:05:10Z",
+            "_id": "33ff48ac-2c2c-4fac-a662-73eb11341a0c",
+            "_rev": "4G9h8JIVRqNCf9scUkRHKD",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-06T23:06:01Z",
+            "label": "Project Submission",
+            "value": "project-submission"
+          },
+          {
+            "_createdAt": "2023-06-16T20:04:56Z",
+            "_id": "9979c10f-98af-4cb6-bac9-55299ece91d8",
+            "_rev": "knxcVG7Zyxkln3M3etERKh",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-06-16T20:04:56Z",
+            "label": "Rebates",
+            "value": "rebates"
+          },
+          {
+            "_createdAt": "2023-07-21T17:04:26Z",
+            "_id": "4a14d54f-e336-4c65-b4a9-2e3b7bed777c",
+            "_rev": "cjmHyhGPrU3vYahNUXQCUl",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-07-21T17:04:26Z",
+            "label": "Sales Markets",
+            "value": "sales-markets"
+          },
+          {
+            "_createdAt": "2022-12-14T00:23:01Z",
+            "_id": "65367120-cfca-4c3d-8388-893854a82b90",
+            "_rev": "SkxtNDeJFZsWl1tm8rJsRX",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-14T00:23:01Z",
+            "label": "Sales Process",
+            "value": "Content relevant to the Solar Sales Process"
+          },
+          {
+            "_createdAt": "2023-10-16T17:17:03Z",
+            "_id": "f214282b-49c0-415a-b18a-ccb1c6265349",
+            "_rev": "059AZXdggHP6hWIUpeSzOX",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-10-16T17:17:03Z",
+            "label": "Setters",
+            "value": "setters"
+          },
+          {
+            "_createdAt": "2023-06-16T20:06:11Z",
+            "_id": "7e76957c-837c-4b8c-ab98-30b8b477ab6e",
+            "_rev": "knxcVG7Zyxkln3M3etEg6B",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-06-16T20:06:11Z",
+            "label": "Smart Home",
+            "value": "smart-home"
+          },
+          {
+            "_createdAt": "2023-10-16T17:16:31Z",
+            "_id": "76383e22-c783-45fa-9917-544dffd7baaf",
+            "_rev": "059AZXdggHP6hWIUpeSyy1",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-10-16T17:16:31Z",
+            "label": "TPO (Third Party Owned) Lease and PPA",
+            "value": "tpo-third-party-owned-lease-ppa"
+          },
+          {
+            "_createdAt": "2022-12-23T23:19:26Z",
+            "_id": "c68b38fd-72d0-4b04-95f8-43a2f0ddf5b2",
+            "_rev": "xrQOUk9ATwLyqARpQWiyFI",
+            "_type": "resourceTopic",
+            "_updatedAt": "2022-12-23T23:19:26Z",
+            "label": "The Enerflo Platform",
+            "value": "The Enerflo Platform"
+          },
+          {
+            "_createdAt": "2023-07-21T17:01:56Z",
+            "_id": "bc92959d-ea6d-42a1-8668-20cc221044dc",
+            "_rev": "cjmHyhGPrU3vYahNUXPprW",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-07-21T17:01:56Z",
+            "label": "Training",
+            "value": "training"
+          },
+          {
+            "_createdAt": "2024-10-21T22:15:48Z",
+            "_id": "c3767db3-1f97-4e40-bf25-05cc57493054",
+            "_rev": "KyzqRrL3EBNKJO9aslq8MQ",
+            "_type": "resourceTopic",
+            "_updatedAt": "2024-10-21T22:15:48Z",
+            "label": "Usability (UI/UX)",
+            "value": "usability"
+          },
+          {
+            "_createdAt": "2023-06-16T17:00:09Z",
+            "_id": "416bcbbf-b314-460c-b6e7-cdd5f61e330d",
+            "_rev": "xLapDhdRrObCF46jgvBTKr",
+            "_type": "resourceTopic",
+            "_updatedAt": "2023-06-16T17:00:09Z",
+            "label": "Vivint Smart Home",
+            "value": "vivint-smart-home"
+          }
+        ]
+      },
+      {
+        "name": "type",
+        "options": [
+          {
+            "_createdAt": "2023-01-25T00:42:12Z",
+            "_id": "ed9c2e10-e1aa-42ac-99c6-af31e1ff2b56",
+            "_rev": "2RiUKde2bkmJEEqBbSZUrf",
+            "_type": "resourceType",
+            "_updatedAt": "2023-01-25T00:42:12Z",
+            "label": "Blog",
+            "value": "Blog"
+          },
+          {
+            "_createdAt": "2023-11-07T19:22:11Z",
+            "_id": "b6ae656f-c296-42fd-b495-5de5cf4dd965",
+            "_rev": "7Cal4u4RZ9i7mXMEkgKkU5",
+            "_type": "resourceType",
+            "_updatedAt": "2023-11-07T19:23:07Z",
+            "label": "Case Study",
+            "value": "case study"
+          },
+          {
+            "_createdAt": "2024-09-12T23:43:56Z",
+            "_id": "a9845563-92a5-4f11-960a-4d3af7e2fbb9",
+            "_rev": "F6agDPV20rB5ySzjo2jOwW",
+            "_type": "resourceType",
+            "_updatedAt": "2024-09-12T23:43:56Z",
+            "label": "Integrations",
+            "value": "Integrations"
+          },
+          {
+            "_createdAt": "2022-12-14T00:08:30Z",
+            "_id": "04a81a6c-d483-4b6e-916d-2eec55776ef6",
+            "_rev": "2RiUKde2bkmJEEqBbSZPdd",
+            "_type": "resourceType",
+            "_updatedAt": "2023-01-25T00:39:32Z",
+            "label": "News",
+            "value": "News"
+          },
+          {
+            "_createdAt": "2025-07-22T15:44:02Z",
+            "_id": "2331b3da-ebb5-4097-aa33-c82e756e3561",
+            "_rev": "RdpJ5MDBtL74OimErZKFZK",
+            "_type": "resourceType",
+            "_updatedAt": "2025-07-23T00:05:04Z",
+            "label": "Partner Spotlight",
+            "value": "Partner Spotlight"
+          },
+          {
+            "_createdAt": "2025-07-22T15:43:04Z",
+            "_id": "drafts.08c17de1-3523-47d0-b7d8-08f6fe98ccd1",
+            "_rev": "dn169z-fsy-v3m-h5l-evvysr8yk",
+            "_type": "resourceType",
+            "_updatedAt": "2025-07-22T15:43:17Z",
+            "label": "Partner Spotlight",
+            "value": "Partner Spotlight"
+          },
+          {
+            "_createdAt": "2022-12-14T00:35:02Z",
+            "_id": "1e376fdc-2208-4c8b-886c-c0a211f45bf8",
+            "_rev": "SkxtNDeJFZsWl1tm8rTGZ9",
+            "_type": "resourceType",
+            "_updatedAt": "2022-12-14T00:35:42Z",
+            "label": "Partner Success Story",
+            "value": "Partner Success Story"
+          },
+          {
+            "_createdAt": "2024-10-16T22:18:40Z",
+            "_id": "29ef38ed-1817-4a77-9a32-51f533c01361",
+            "_rev": "OnRKIg6u50cGknN55lTEB3",
+            "_type": "resourceType",
+            "_updatedAt": "2024-10-16T22:18:40Z",
+            "label": "Podcast",
+            "value": "podcast"
+          },
+          {
+            "_createdAt": "2023-06-16T16:45:45Z",
+            "_id": "6cf5d9b1-5223-46de-bde3-6872539437a4",
+            "_rev": "cXzCXpXCx57zsOnqAxJKVl",
+            "_type": "resourceType",
+            "_updatedAt": "2023-11-13T21:54:12Z",
+            "label": "Product Announcements",
+            "value": "product announcements"
+          },
+          {
+            "_createdAt": "2024-09-11T18:41:10Z",
+            "_id": "dd91077e-c191-451f-9493-7826e158abeb",
+            "_rev": "34JTFJpQ6p606Cnq3VzWCY",
+            "_type": "resourceType",
+            "_updatedAt": "2024-09-11T18:41:10Z",
+            "label": "Virtual Event",
+            "value": "Virtual Event"
+          },
+          {
+            "_createdAt": "2023-01-25T00:42:45Z",
+            "_id": "3c55a120-7516-476d-83cf-99e10b81356d",
+            "_rev": "2FRBnd2ASC56fMtVFTCc7d",
+            "_type": "resourceType",
+            "_updatedAt": "2023-11-13T21:54:33Z",
+            "label": "Webinar",
+            "value": "Webinar"
+          },
+          {
+            "_createdAt": "2023-11-07T19:03:17Z",
+            "_id": "b3f9c165-22dd-4bf5-ac35-910fe9cb01c3",
+            "_rev": "U1Pa6t0qB5sRxGywpGp1DF",
+            "_type": "resourceType",
+            "_updatedAt": "2023-11-13T21:54:02Z",
+            "label": "White Paper",
+            "value": "white paper"
+          }
+        ]
+      }
+    ],
+    "currentPage": 2,
+    "pageSize": 12,
+    "sortBy": "postedDate desc",
+    "totalCount": 0
+  },
+  "__N_SSP": true
+}

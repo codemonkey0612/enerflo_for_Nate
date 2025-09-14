@@ -1,0 +1,475 @@
+{
+  "pageProps": {
+    "preview": null,
+    "features": [
+      {
+        "_id": "f8ba14a0-da3e-47fb-ab1c-35f0b5d27dcd",
+        "description": "Initiate a design request within Enerflo for the design tool.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "822b83fc-93a7-4ec1-b1f8-918254a21ff2" }
+          }
+        ],
+        "title": "Start the Design Process within Enerflo"
+      },
+      {
+        "_id": "a4eff069-397d-4cb9-9d9c-1a25c643e15c",
+        "description": "Automatic AI modeling of rooftops without requiring a human designer.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          }
+        ],
+        "title": "Instant AI Design"
+      },
+      {
+        "_id": "b9c2b88a-e622-48a5-be4b-97f5d6890c1c",
+        "description": "Allow the sales rep to build their own design from scratch.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          }
+        ],
+        "title": "DIY Design"
+      },
+      {
+        "_id": "5df8ab74-b75d-436b-9eda-2521b5ebd89c",
+        "description": "Speed to get a design built and ready for a proposal.",
+        "integrators": [
+          {
+            "detail": "30 Seconds",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "60 Seconds",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "10 Minutes",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "7 Minutes",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "10 Minutes",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          },
+          {
+            "detail": "Varies",
+            "item": { "_ref": "822b83fc-93a7-4ec1-b1f8-918254a21ff2" }
+          }
+        ],
+        "title": "Turn Around Time"
+      },
+      {
+        "_id": "19c9dfba-c885-41df-a55f-47f528a470c0",
+        "description": "Allow for trees to be added/removed in real-time.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          }
+        ],
+        "title": "Add/Remove Trees or Roof Planes"
+      },
+      {
+        "_id": "563cc67e-5af6-4711-913b-79dcaf53bc61",
+        "description": "Complete data set including production by array, roof measurements, tilt, azimuth etc.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          }
+        ],
+        "title": "Complete Raw Data Set"
+      },
+      {
+        "_id": "7b7e77d2-9ac1-4d8b-af75-83d3afdec6d5",
+        "description": "Configure consumption data within Enerflo.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "822b83fc-93a7-4ec1-b1f8-918254a21ff2" }
+          }
+        ],
+        "title": "Sync Consumption Data"
+      },
+      {
+        "_id": "df34cbed-e1e0-42dd-af0c-c1fef7d67485",
+        "description": "Selection of alternative consumption profile supported.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "822b83fc-93a7-4ec1-b1f8-918254a21ff2" }
+          }
+        ],
+        "title": "Multiple Consumption Profiles"
+      },
+      {
+        "_id": "f725f6b4-e4d3-4941-b407-a88979930acf",
+        "description": "Get designs back for ground mounts or where there is no imagery.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "822b83fc-93a7-4ec1-b1f8-918254a21ff2" }
+          }
+        ],
+        "title": "Ground Mounts"
+      },
+      {
+        "_id": "7c5f61c2-6dd2-4b3c-b566-8a81cfb3c25e",
+        "description": "Sync multiple versions of a design without requesting a new design.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "822b83fc-93a7-4ec1-b1f8-918254a21ff2" }
+          }
+        ],
+        "title": "Design Versioning"
+      },
+      {
+        "_id": "4efc874a-e983-4555-a8bd-c526faee1b5a",
+        "description": "Design returned with a 3D model rendering.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          }
+        ],
+        "title": "3D Modeling"
+      },
+      {
+        "_id": "410b384a-b5b3-4d8a-9934-a4d52501f6f0",
+        "description": "Ability to make panel modifications within the proposal via iframe.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "822b83fc-93a7-4ec1-b1f8-918254a21ff2" }
+          }
+        ],
+        "title": "Add/Remove Panels in Enerflo's Proposal Tool (Optimus)"
+      },
+      {
+        "_id": "477a749c-f51d-43db-8756-bedef4697c73",
+        "description": "Update the design in Enerflo when modifications are made in the design tool.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          }
+        ],
+        "title": "Design Auto Sync"
+      },
+      {
+        "_id": "47200550-0d04-48aa-895f-a2fd915396d4",
+        "description": "Ability to change equipment on the fly without a redesign.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          }
+        ],
+        "title": "Equipment Changes"
+      },
+      {
+        "_id": "3e4fea43-da49-4be1-90ba-f12cf2178211",
+        "description": "Ensure sales reps have user rights in the integrated design tool.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "839f42ac-5011-45cb-a943-d285103893c7" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "0e69ecfd-a05e-4162-9724-19051502ffd1" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "822b83fc-93a7-4ec1-b1f8-918254a21ff2" }
+          }
+        ],
+        "title": "User Validation"
+      }
+    ],
+    "integratorsList": [
+      {
+        "_id": "e175afe0-8fcc-4dc1-9e8b-9ca68f5fd887",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-799ec923cd150be18ace43313ed993cbf5ab4bf8-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Aerialytic"
+      },
+      {
+        "_id": "839f42ac-5011-45cb-a943-d285103893c7",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-de5b6fed2740bf2c01154c5f456d43441af225c3-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Aurora"
+      },
+      {
+        "_id": "0e69ecfd-a05e-4162-9724-19051502ffd1",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-9746c83bd12277a6fd351f1fc8ac2665878bd0d3-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Solo"
+      },
+      {
+        "_id": "2d645baa-0b1d-4f2b-9e4a-967e8f5b9e06",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-c569654207ada565c70ef2d1899da156cc683b8c-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Everbright"
+      },
+      {
+        "_id": "6601e2e1-bbaf-4fa1-b6ca-ff41473e8350",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-55beecf4108baba59ec20767d58035ebffb020cc-1200x289-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "OpenSolar"
+      },
+      {
+        "_id": "822b83fc-93a7-4ec1-b1f8-918254a21ff2",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-235132a3626805f572e7cc869bcf5790c582b96d-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Manual Design"
+      }
+    ]
+  },
+  "__N_SSG": true
+}

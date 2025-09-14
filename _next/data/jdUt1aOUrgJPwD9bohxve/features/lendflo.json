@@ -1,0 +1,608 @@
+{
+  "pageProps": {
+    "preview": null,
+    "features": [
+      {
+        "_id": "63e890a6-2f96-4dcc-ac08-cfa58599b751",
+        "description": "TPO services, including lease and PPA, can be added to solar deals that meet the criteria based on the state in which the homeowner resides.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ed817943-9053-4b21-ae59-3c0aa4a6eff6" }
+          }
+        ],
+        "title": "Third Party Owned (TPO) Services"
+      },
+      {
+        "_id": "6ec3ddf4-7158-4598-a11b-ca7bca20bcd0",
+        "description": "Enerflo can provide accurate quotes for fully integrated finance partners, as well as for most non-integrated finance partners, based on partner, product and project cost criteria.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "35c8eed7-f6ce-4433-bf42-c93e0348a84c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ed817943-9053-4b21-ae59-3c0aa4a6eff6" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "35b47e6b-1b82-4c1c-9b33-9c9c6a8313eb" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Instant pricing and accurate quotes"
+      },
+      {
+        "_id": "89f9df49-e65f-4e34-9aa7-9ea48467c7c9",
+        "description": "Enerflo dynamically incorporates finance provider disclaimers into the proposal and application, ensuring compliance.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "35c8eed7-f6ce-4433-bf42-c93e0348a84c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ed817943-9053-4b21-ae59-3c0aa4a6eff6" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "35b47e6b-1b82-4c1c-9b33-9c9c6a8313eb" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Compliant proposals and disclaimers"
+      },
+      {
+        "_id": "b99c6616-bc2c-400c-93a6-0ceac666de36",
+        "description": "Enerflo is able to pre-fill required data points based on information already entered or known, saving time and repetitive manual entry.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "35c8eed7-f6ce-4433-bf42-c93e0348a84c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ed817943-9053-4b21-ae59-3c0aa4a6eff6" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "35b47e6b-1b82-4c1c-9b33-9c9c6a8313eb" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Pre-fill application details"
+      },
+      {
+        "_id": "dcc7da15-8d80-4fa2-aeaf-e3e7bd08ba6b",
+        "description": "The entire finance application is embedded within Enerflo, eliminating the need for multiple logins to financier portals.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "ed817943-9053-4b21-ae59-3c0aa4a6eff6" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "35c8eed7-f6ce-4433-bf42-c93e0348a84c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "35b47e6b-1b82-4c1c-9b33-9c9c6a8313eb" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Embed finance application"
+      },
+      {
+        "_id": "3c690e3e-f7f5-46cc-9d95-a6b3000e181a",
+        "description": "Finance applications can be quickly and easily emailed to the customer applicant from within Enerflo.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Email finance application"
+      },
+      {
+        "_id": "32966a51-35e6-410d-9ee1-d590afcc6fe6",
+        "description": "Finance documents are all embedded within the Enerflo platform, saving time and creating a more streamlined experience for all involved parties.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Embed finance docs for signature"
+      },
+      {
+        "_id": "24b534ad-2faf-4735-94be-9e2710d53bc1",
+        "description": "Finance docs can be emailed for signature, with status tracking. Email is triggered by Enerflo.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "35b47e6b-1b82-4c1c-9b33-9c9c6a8313eb" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Email finance docs for signature"
+      },
+      {
+        "_id": "fa78ad82-6699-47a3-95f9-59482c890bb1",
+        "description": "Loan docs can be provided in Spanish for participating financiers.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          }
+        ],
+        "title": "Spanish translation for docs"
+      },
+      {
+        "_id": "86b7571d-fd29-4822-8931-93d35310624f",
+        "description": "Enerflo provides stipulation updates in real time to keep the financing application process moving forward as quickly as possible.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          }
+        ],
+        "title": "Loan stip visibility"
+      },
+      {
+        "_id": "8c74b2ee-b188-47fb-83d6-3c2b855bfae9",
+        "description": "Enerflo automatically updates the application with system equipment and project details.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "35b47e6b-1b82-4c1c-9b33-9c9c6a8313eb" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Automatically send system details to financier"
+      },
+      {
+        "_id": "fa3b8ee5-68e0-4519-ad40-fb5c5e3e1214",
+        "description": "Enerflo automatically uploads signed install agreements to the application.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Automatically upload signed install agreement"
+      },
+      {
+        "_id": "ac8fb8de-898f-4623-9e9a-c320c5df0cc2",
+        "description": "Enerflo can get updates on application status to assist with reporting and project submission.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a54a9098-41ff-412e-8d01-d6fe257f319b" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "648e3efd-8e2c-403e-b961-7e7ea108991c" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d00af37b-9c88-4e64-8a2a-d757b14bc491" }
+          }
+        ],
+        "title": "Application status tracking"
+      },
+      {
+        "_id": "bde6bb89-9ca2-47a5-90f3-badd24a45c9b",
+        "description": "Enerflo automatically integrates change orders and other project-related updates with the application.",
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "79a20574-c545-4a6c-b371-232aca67592f" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "2d016815-631c-4e21-97a2-a663d7098ce5" }
+          }
+        ],
+        "title": "Integrated change order support"
+      }
+    ],
+    "integratorsList": [
+      {
+        "_id": "2d016815-631c-4e21-97a2-a663d7098ce5",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-9c5c3505ec0615f9041559fe563db99e5780df7c-156x23-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Sunlight"
+      },
+      {
+        "_id": "79a20574-c545-4a6c-b371-232aca67592f",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-5f22a6ec1e6f114325b3c24833b148c783df6b08-146x35-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Goodleap"
+      },
+      {
+        "_id": "d00af37b-9c88-4e64-8a2a-d757b14bc491",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-c33d51648c2bcfb780881653ec4d6fdeb8395827-1098x383-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "OneEthos, powered by Climate First Bank"
+      },
+      {
+        "_id": "a54a9098-41ff-412e-8d01-d6fe257f319b",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-b5d5754bd3fb677e50ffc38b548de859bc66bdf2-615x140-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Dividend"
+      },
+      {
+        "_id": "ee1f6d33-b818-4d29-a2f8-82c5c5df9b24",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-b0bb70a071b2c1d090e8c1915807779f2ddd5036-146x29-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Mosaic"
+      },
+      {
+        "_id": "648e3efd-8e2c-403e-b961-7e7ea108991c",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-af96fe2ebaad7061a285d37f2b3e350cd341fb9e-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Palmetto LightReach"
+      },
+      {
+        "_id": "1f23ae2f-4d8a-4b52-979e-ea90574f11cf",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-29cae68014ab7ce090b802eb5ef958d5595d9e95-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Sungage"
+      },
+      {
+        "_id": "35b47e6b-1b82-4c1c-9b33-9c9c6a8313eb",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-39e00377592935a5c9a698e6e9da582c6d1772d7-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "EnFin"
+      },
+      {
+        "_id": "ed817943-9053-4b21-ae59-3c0aa4a6eff6",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-e8e34ae92353e7ecf95b7b65633bc3ac71e8da94-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Lumifi"
+      },
+      {
+        "_id": "35c8eed7-f6ce-4433-bf42-c93e0348a84c",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-69383d47d70ec901e402711f74f4d0bffb195927-500x150-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "PayKeeper"
+      }
+    ]
+  },
+  "__N_SSG": true
+}

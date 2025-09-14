@@ -1,0 +1,27 @@
+.logos_logos__mrsLw {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.logos_logo__ye_uR {
+  position: relative;
+  height: 80px;
+  width: 80px;
+}
+.logos_break__2RQ5_ {
+  flex-basis: 100%;
+  height: 0;
+}
+@media screen and (min-width: 500px) {
+  .logos_logo__ye_uR {
+    height: 120px;
+    width: 120px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .logos_logo__ye_uR {
+    height: 160px;
+    width: 160px;
+  }
+}
+/*# sourceMappingURL=0cacb68884a9b918.css.map*/

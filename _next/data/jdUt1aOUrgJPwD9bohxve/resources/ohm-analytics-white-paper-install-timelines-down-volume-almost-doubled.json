@@ -1,0 +1,444 @@
+{
+  "pageProps": {
+    "preview": null,
+    "resource": {
+      "_id": "789bd175-252e-48e5-bda0-615f6e4e7c1d",
+      "authors": [
+        {
+          "_createdAt": "2022-12-06T23:04:19Z",
+          "_id": "a38807f5-524e-48a1-99de-268371c67b9f",
+          "_rev": "1AWADvK3zTmilqcayY7aFX",
+          "_type": "author",
+          "_updatedAt": "2022-12-06T23:05:56Z",
+          "firstName": "Rebecca",
+          "lastName": "Taylor"
+        }
+      ],
+      "content": [
+        {
+          "_key": "1363259a5549",
+          "_type": "section",
+          "backgroundColor": "white",
+          "content": [
+            {
+              "_key": "448715813f43",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "9f11fd193e69",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ""
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "60020e8814d1",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "5c4d7e27b46d0",
+                  "_type": "span",
+                  "marks": ["strong"],
+                  "text": "Continuous Improvement – Installation Timelines"
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "3e608f3d29a2",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "d9f01d734a2d0",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Key Takeaway : Install time lines down 62% relative to peers despite volumes almost doubling"
+                }
+              ],
+              "markDefs": [],
+              "style": "h2"
+            },
+            {
+              "_key": "fa76793e5f1b",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eb5ecbaabc260",
+                  "_type": "span",
+                  "marks": ["02a2329e0b8e", "strong"],
+                  "text": "Download the PDF"
+                }
+              ],
+              "markDefs": [
+                {
+                  "_key": "02a2329e0b8e",
+                  "_type": "link",
+                  "href": "https://lp.enerflo.com/hubfs/Ohm-Analytics-White-Paper-Enerflo-2023.pdf",
+                  "openInNewTab": true
+                }
+              ],
+              "style": "normal"
+            },
+            {
+              "_key": "84f17a4e80ad",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "567070c47d18",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Ohm Analytics is focused on providing teams with strategic insights driven by actionable, unbiased data. Installation timelines for the residential solar installer is a key metric that successful companies track closely to maintain a competitive advantage within their market."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "c387ba8a818c",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "9e81756c84d3",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ""
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "b7450cd2f2aa",
+              "_type": "image",
+              "alt": "Distribution of Installation Timelines",
+              "asset": {
+                "_ref": "image-0a3c9213efd95cee091223ae7f35e4429a1fad73-609x472-png",
+                "_type": "reference"
+              },
+              "width": 600
+            },
+            {
+              "_key": "4a24e3161102",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "0f8146eb79260",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Through relationships with over 1600 AHJ’s and other data partners, Ohm Analytics has built out a mechanism to track installation timelines. Interestingly, install times vary widely across installers within the metro areas governed by same AHJ’s. The broad distribution of install times (~80% of contractors within 3X range) prompted the question as to uncover strategies that are focused on streamlining this critical phase of the project. Continuously improving the installation process simultaneously impacts all three key components of the success matrix – customer loyalty, operational efficiency, and gross margin."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "bb8e691e6fee",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "72dc1ca9350f0",
+                  "_type": "span",
+                  "marks": ["strong"],
+                  "text": "Differentiated Customer experience"
+                },
+                {
+                  "_key": "4fdb1898cf79",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " – faster more predictable timelines will enable (1) customer expectations to be set early and (2) installers to follow through on project goals. Removing uncertainty around project completion will reduce the perceived effort required by the homeowner to install solar, thereby promoting satisfaction and loyalty. Customer loyalty is the most effective way to promote your brand and generate organic growth within your market."
+                }
+              ],
+              "level": 1,
+              "listItem": "bullet",
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "2794c831a9f0",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "c5886608757e",
+                  "_type": "span",
+                  "marks": ["strong"],
+                  "text": "Increased Project Margins"
+                },
+                {
+                  "_key": "53a5e3825cb1",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " – greater visibility and tracking of dynamic and layered project milestones enables for more effective management of installation teams, equipment procurement, inventory levels and permitting. Importantly, driving improvement within the installation process sets the foundation for operational scale and profitable expansion."
+                }
+              ],
+              "level": 1,
+              "listItem": "bullet",
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "27d88403521e",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "1a527e5f77950",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Case Study – Impact of Enerflo software platform operational efficiency in growth markets"
+                }
+              ],
+              "markDefs": [],
+              "style": "h2"
+            },
+            {
+              "_key": "2417be39efde",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "46eb1f26d1290",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Due to the impact of installation on multiple facets of the business, we analyzed the effectiveness of software platforms designed to simplify and create transparency across the end-to-end process. Briefly, the analysis was built up from the project level and designed to control for different permitting requirement across AHJ’s, installation type (e.g. paired systems were excluded) and growth rates across distinct markets. Installation timelines were defined as the time between permit issuance and final inspection, and only completed projects were included. Cohorts of contractors were created such that a direct comparison of installation efficiency over time could be made between those that had recently integrated the Enerflo platform versus their peers (withing the same AHJ)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "881d0ec6ea73",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "a939efc92c76",
+                  "_type": "span",
+                  "marks": ["strong"],
+                  "text": "Conclusion:"
+                },
+                {
+                  "_key": "df87ec3767d2",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " Integration of systematic tools that track and provide visibility into the concurrent operational layers that characterize solar installations, create long term business value from which it can efficiently scale and expand."
+                }
+              ],
+              "markDefs": [],
+              "style": "h3"
+            },
+            {
+              "_key": "e84489afe032",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "f78240aa92e9",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ""
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            },
+            {
+              "_key": "f8ec7b3013ec",
+              "_type": "image",
+              "alt": "Impact of Enerflo Integration",
+              "asset": {
+                "_ref": "image-0a745a2ef0c93216c4463e21e1081014a5b33a39-1477x742-png",
+                "_type": "reference"
+              },
+              "width": 1400
+            },
+            {
+              "_key": "0223083ca956",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "7ef3dc4a7430",
+                  "_type": "span",
+                  "marks": ["strong", "eb6fea102fb6"],
+                  "text": "Download the PDF"
+                }
+              ],
+              "markDefs": [
+                {
+                  "_key": "eb6fea102fb6",
+                  "_type": "link",
+                  "href": "https://lp.enerflo.com/hubfs/Ohm-Analytics-White-Paper-Enerflo-2023.pdf",
+                  "openInNewTab": true
+                }
+              ],
+              "style": "normal"
+            }
+          ],
+          "title": "WP INtro"
+        }
+      ],
+      "footer": { "_type": "footer", "show": true, "variant": "default" },
+      "image": {
+        "_type": "image",
+        "alt": "Ohm Analytics - Enerflo Case Study.",
+        "asset": {
+          "_ref": "image-c980163c02002f3756f990208bbb9aaddb75e26d-1444x499-jpg",
+          "_type": "reference"
+        },
+        "crop": null,
+        "height": null,
+        "hotspot": null,
+        "width": null
+      },
+      "navbar": { "_type": "navbar", "variant": "default" },
+      "postedDate": "2023-08-01",
+      "seoDescription": "Due to the impact of installation on multiple facets of the business, we analyzed the effectiveness of software platforms designed to simplify and create transparency across the end-to-end process.",
+      "seoTitle": "Ohm Analytics Case Study: Enerflo Installer timelines down 62% while volumes nearly doubled",
+      "sideNav": {
+        "_type": "sideNav",
+        "sections": [
+          {
+            "_key": "f",
+            "_type": "sideNavSection",
+            "content": [
+              {
+                "_key": "f0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b3f3e865e23e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ""
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f1",
+                "_type": "shareIcons",
+                "icons": ["linkedIn", "facebook", "twitter"]
+              }
+            ],
+            "title": "Share"
+          },
+          {
+            "_key": "24",
+            "_type": "sideNavSection",
+            "content": [
+              {
+                "_key": "240",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a534b87eaf90",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ""
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "241",
+                "_type": "relatedItems",
+                "itemCount": 3,
+                "type": "resource",
+                "items": [
+                  {
+                    "_id": "69d29012-8eed-456b-a342-b28e7da28c33",
+                    "image": {
+                      "_type": "image",
+                      "alt": "Enerflo Platform Updates Release May 2023.",
+                      "asset": {
+                        "_ref": "image-184ef9f81cc5ae1fc49af7ef8d9d1a8650033db2-1444x499-jpg",
+                        "_type": "reference"
+                      },
+                      "crop": null,
+                      "height": null,
+                      "hotspot": null,
+                      "width": null
+                    },
+                    "postedDate": "2025-08-27",
+                    "slug": "enerflo-product-announcements-august-2025",
+                    "title": "Enerflo Product Announcements - August 2025",
+                    "type": {
+                      "_createdAt": "2023-06-16T16:45:45Z",
+                      "_id": "6cf5d9b1-5223-46de-bde3-6872539437a4",
+                      "_rev": "cXzCXpXCx57zsOnqAxJKVl",
+                      "_type": "resourceType",
+                      "_updatedAt": "2023-11-13T21:54:12Z",
+                      "label": "Product Announcements",
+                      "value": "product announcements"
+                    }
+                  },
+                  {
+                    "_id": "1c8acf88-0600-4e7f-864d-74eb4e6ee179",
+                    "image": {
+                      "_type": "image",
+                      "alt": "Enerflo Platform Updates Release May 2023.",
+                      "asset": {
+                        "_ref": "image-184ef9f81cc5ae1fc49af7ef8d9d1a8650033db2-1444x499-jpg",
+                        "_type": "reference"
+                      },
+                      "crop": null,
+                      "height": null,
+                      "hotspot": null,
+                      "width": null
+                    },
+                    "postedDate": "2025-07-24",
+                    "slug": "enerflo-product-announcements---july-2025",
+                    "title": "Enerflo Product Announcements - July 2025",
+                    "type": {
+                      "_createdAt": "2023-06-16T16:45:45Z",
+                      "_id": "6cf5d9b1-5223-46de-bde3-6872539437a4",
+                      "_rev": "cXzCXpXCx57zsOnqAxJKVl",
+                      "_type": "resourceType",
+                      "_updatedAt": "2023-11-13T21:54:12Z",
+                      "label": "Product Announcements",
+                      "value": "product announcements"
+                    }
+                  },
+                  {
+                    "_id": "52fb9be8-5216-47eb-abd1-5deeafd41bbc",
+                    "image": {
+                      "_type": "image",
+                      "alt": "Enerflo Press Release.",
+                      "asset": {
+                        "_ref": "image-97e146196d110f6a3c425555da99cbc4361d9f3a-1444x499-jpg",
+                        "_type": "reference"
+                      },
+                      "crop": null,
+                      "height": null,
+                      "hotspot": null,
+                      "width": null
+                    },
+                    "postedDate": "2025-06-26",
+                    "slug": "new-webinar-what-the-big-beautiful-bill-means-for-solar-market-impact,-insights-action",
+                    "title": "New Webinar: What the Big Beautiful Bill Means for Solar: Market Impact, Insights & Action",
+                    "type": {
+                      "_createdAt": "2023-01-25T00:42:45Z",
+                      "_id": "3c55a120-7516-476d-83cf-99e10b81356d",
+                      "_rev": "2FRBnd2ASC56fMtVFTCc7d",
+                      "_type": "resourceType",
+                      "_updatedAt": "2023-11-13T21:54:33Z",
+                      "label": "Webinar",
+                      "value": "Webinar"
+                    }
+                  }
+                ]
+              }
+            ],
+            "title": "Latest Posts"
+          }
+        ],
+        "side": "right"
+      },
+      "title": "Ohm Analytics Case Study: Enerflo Partner Install timelines down 62% relative to peers despite volumes almost doubling",
+      "topics": ["Installers / EPCs", "The Enerflo Platform"],
+      "type": "Case Study"
+    }
+  },
+  "__N_SSG": true
+}

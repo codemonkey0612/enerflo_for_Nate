@@ -1,0 +1,9 @@
+<svg width="128" height="129" viewBox="0 0 128 129" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M55.8351 61.761C54.8588 60.7847 53.2759 60.7847 52.2996 61.761C51.3233 62.7373 51.3233 64.3202 52.2996 65.2965L55.8351 61.761ZM60.8258 70.2872L59.0581 72.0549L60.8258 73.8227L62.5936 72.0549L60.8258 70.2872ZM75.66 58.9887C76.6363 58.0124 76.6363 56.4295 75.66 55.4532C74.6837 54.4769 73.1008 54.4769 72.1245 55.4532L75.66 58.9887ZM52.2996 65.2965L59.0581 72.0549L62.5936 68.5194L55.8351 61.761L52.2996 65.2965ZM62.5936 72.0549L75.66 58.9887L72.1245 55.4532L59.0581 68.5194L62.5936 72.0549Z" fill="white"/>
+<ellipse cx="63.9798" cy="63.9793" rx="54.0677" ry="54.0671" stroke="white" stroke-width="5"/>
+<ellipse cx="63.9799" cy="63.9793" rx="31.5395" ry="31.5391" stroke="white" stroke-width="5"/>
+<line x1="64.6768" y1="2.5" x2="64.6768" y2="17.3246" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<line x1="2.5" y1="63.2816" x2="17.3248" y2="63.2816" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<line x1="64.6768" y1="111.535" x2="64.6768" y2="126.36" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<line x1="110.636" y1="63.2816" x2="125.461" y2="63.2816" stroke="white" stroke-width="5" stroke-linecap="round"/>
+</svg>

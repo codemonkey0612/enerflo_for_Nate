@@ -1,0 +1,226 @@
+{
+  "pageProps": {
+    "preview": null,
+    "features": [
+      {
+        "_id": "5e529797-2e55-4c82-a0a9-8128a17170d4",
+        "description": null,
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "d48aec3a-ab05-4eb9-8f98-d969d803de68" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a837f41b-d028-407c-a9e6-8b75bbebe588" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6d287562-49b3-49e3-901b-cdaf67f2a3e4" }
+          },
+          {
+            "detail": "Canvass Controlled",
+            "item": { "_ref": "e11fab3b-9637-44cf-9d0c-bfabe47c8fe2" }
+          }
+        ],
+        "title": "Pass Lead details to Enerflo"
+      },
+      {
+        "_id": "bcdd230c-2931-4c9e-b68f-1d6eb065f423",
+        "description": null,
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "6d287562-49b3-49e3-901b-cdaf67f2a3e4" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "e11fab3b-9637-44cf-9d0c-bfabe47c8fe2" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d48aec3a-ab05-4eb9-8f98-d969d803de68" }
+          }
+        ],
+        "title": "Create appointment through Webhook (opens new browser window from app using Enerflo's scheduling rules)"
+      },
+      {
+        "_id": "adb1087e-4cbb-44f1-b2ac-4a1b60859d7e",
+        "description": null,
+        "integrators": [
+          {
+            "detail": "Custom",
+            "item": { "_ref": "d48aec3a-ab05-4eb9-8f98-d969d803de68" }
+          },
+          {
+            "detail": "Custom",
+            "item": { "_ref": "a837f41b-d028-407c-a9e6-8b75bbebe588" }
+          }
+        ],
+        "title": "Pass Appointment Details when Lead is pushed"
+      },
+      {
+        "_id": "6888c41e-be3e-4aa6-8be9-2f8709e6ba52",
+        "description": null,
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "d48aec3a-ab05-4eb9-8f98-d969d803de68" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6d287562-49b3-49e3-901b-cdaf67f2a3e4" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a837f41b-d028-407c-a9e6-8b75bbebe588" }
+          }
+        ],
+        "title": "Change Lead Status in Enerflo when Lead is pushed"
+      },
+      {
+        "_id": "65e851a3-689a-4ce2-a811-a9f71af7fab0",
+        "description": null,
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "6d287562-49b3-49e3-901b-cdaf67f2a3e4" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "a837f41b-d028-407c-a9e6-8b75bbebe588" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d48aec3a-ab05-4eb9-8f98-d969d803de68" }
+          }
+        ],
+        "title": "Change Lead Source in Enerflo when Lead is pushed"
+      },
+      {
+        "_id": "022201de-504a-4cc1-ba16-74df54b3e568",
+        "description": null,
+        "integrators": [
+          {
+            "detail": "",
+            "item": { "_ref": "d48aec3a-ab05-4eb9-8f98-d969d803de68" }
+          },
+          {
+            "detail": "Custom",
+            "item": { "_ref": "a837f41b-d028-407c-a9e6-8b75bbebe588" }
+          },
+          {
+            "detail": "Custom",
+            "item": { "_ref": "6d287562-49b3-49e3-901b-cdaf67f2a3e4" }
+          }
+        ],
+        "title": "Push utility bill to Enerflo when Lead is pushed"
+      },
+      {
+        "_id": "214c5fd8-b826-40e9-a376-4a87b956ed97",
+        "description": null,
+        "integrators": [
+          {
+            "detail": "Custom",
+            "item": { "_ref": "6d287562-49b3-49e3-901b-cdaf67f2a3e4" }
+          },
+          {
+            "detail": "Custom",
+            "item": { "_ref": "a837f41b-d028-407c-a9e6-8b75bbebe588" }
+          },
+          {
+            "detail": "Custom",
+            "item": { "_ref": "d48aec3a-ab05-4eb9-8f98-d969d803de68" }
+          }
+        ],
+        "title": "Change Lead Status in External Application when progress is made on Lead in Enerflo"
+      },
+      {
+        "_id": "1eecaf23-fb16-4504-b81c-c52c9dda0ddb",
+        "description": null,
+        "integrators": [
+          {
+            "detail": "Custom",
+            "item": { "_ref": "a837f41b-d028-407c-a9e6-8b75bbebe588" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "d48aec3a-ab05-4eb9-8f98-d969d803de68" }
+          },
+          {
+            "detail": "",
+            "item": { "_ref": "6d287562-49b3-49e3-901b-cdaf67f2a3e4" }
+          }
+        ],
+        "title": "Change Lead Source in External Application when progress is made on Lead in Enerflo"
+      }
+    ],
+    "integratorsList": [
+      {
+        "_id": "6d287562-49b3-49e3-901b-cdaf67f2a3e4",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-2e3dcd76cd064c626cfb90d0ccda4ba9c367d5ae-778x205-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Sales Rabbit"
+      },
+      {
+        "_id": "d48aec3a-ab05-4eb9-8f98-d969d803de68",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-a3b0f51f26d45b014cf09b944f21a9e7c07b40c6-1000x206-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Spotio"
+      },
+      {
+        "_id": "a837f41b-d028-407c-a9e6-8b75bbebe588",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-d3b2786958192dd301252b9c757255b44bb2b4da-1853x420-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Go High Level"
+      },
+      {
+        "_id": "e11fab3b-9637-44cf-9d0c-bfabe47c8fe2",
+        "logo": {
+          "_type": "image",
+          "alt": null,
+          "asset": {
+            "_ref": "image-86ec6f118e72ae3f19eeb8d45ef9c513a1570614-514x180-png",
+            "_type": "reference"
+          },
+          "crop": null,
+          "height": null,
+          "hotspot": null,
+          "width": null
+        },
+        "name": "Canvass"
+      }
+    ]
+  },
+  "__N_SSG": true
+}

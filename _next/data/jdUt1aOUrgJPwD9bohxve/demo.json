@@ -1,0 +1,164 @@
+{
+  "pageProps": {
+    "preview": null,
+    "testimonials": [
+      {
+        "_id": "8582a631-ac43-4576-9a18-14c2030f5b9a",
+        "author": "John Shields",
+        "comment": [
+          {
+            "_key": "a69bb1b439de",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "f9c0fdedd7bb",
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "Amazing software"
+              },
+              {
+                "_key": "5077eb35b35a",
+                "_type": "span",
+                "marks": [],
+                "text": " with even better staff to support and build the vision!"
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "company": "Vivint"
+      },
+      {
+        "_id": "09f058fb-fabe-4d67-ad98-294fccf3dc36",
+        "author": "Junior Vanden Brink",
+        "comment": [
+          {
+            "_key": "b430b902d56b",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "70912f3d6b6b0",
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "Great company to work with."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "company": "Vivint"
+      },
+      {
+        "_id": "ed22c01a-2f72-437e-8bf5-c83ab9a6d7eb",
+        "author": "Nicholas Speir",
+        "comment": [
+          {
+            "_key": "983bbc824533",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "207f8d11a9410",
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "Enerflo has really transformed our sales process!"
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "company": "Speir Innovations"
+      },
+      {
+        "_id": "1f119f81-ef38-4e7d-9f77-99404132ad83",
+        "author": "Evan Rademaker",
+        "comment": [
+          {
+            "_key": "f3faa6af5722",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "13dd19d70f8a0",
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "Love the platform and the team! "
+              },
+              {
+                "_key": "60d0ae66f086",
+                "_type": "span",
+                "marks": [],
+                "text": "[Our Project Success Manager] has been great to work with and is very responsive. Keep it up!"
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "company": "Unicity Solar Energy"
+      },
+      {
+        "_id": "b2fa4d64-a6db-44c7-82dc-7275d62730c4",
+        "author": "Charles Heaton",
+        "comment": [
+          {
+            "_key": "a8f48fe2afcd",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "8df90b1c29530",
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "Enerflo has been a phenomenal platform."
+              },
+              {
+                "_key": "d91d87df6238",
+                "_type": "span",
+                "marks": [],
+                "text": " I’m pretty familiar with everything else that’s out there and in my opinion, Enerflo is one of the best."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "company": "TriSMART"
+      },
+      {
+        "_id": "6a928622-a5af-430f-977e-6a24ba519572",
+        "author": "Matt Mark",
+        "comment": [
+          {
+            "_key": "75b2ae7facbb",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "56243c7a4f570",
+                "_type": "span",
+                "marks": [],
+                "text": "Enerflo plays with a bunch of different people, whether it be sales teams, financiers, equipment, etc. I wasn’t locked into one thing..."
+              },
+              {
+                "_key": "32854716f36f",
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "it gave me that ability to flex as a business"
+              },
+              {
+                "_key": "45bbcc33682c",
+                "_type": "span",
+                "marks": [],
+                "text": ", but still have everything accessible."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "company": "SunnyMac"
+      }
+    ]
+  },
+  "__N_SSG": true
+}
